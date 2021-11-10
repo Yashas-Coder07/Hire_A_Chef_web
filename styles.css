@@ -15,7 +15,9 @@ body{
     color:#F8E2CF;
     cursor: pointer;
 }
-
+#title{
+    padding: 2% 1% 0% 2%;
+}
 .nav-item{
     padding: 0 10px;
 }
