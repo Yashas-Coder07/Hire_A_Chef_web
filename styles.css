@@ -1,0 +1,115 @@
+body{
+    background-color: #ff4c68;
+}
+
+.navbar-coustom{
+    background-color: #F8E2CF;
+    border-style: solid;
+    
+    border: 5% 0 0 5%;
+    
+}
+.fa-asymmetrik{
+    stroke: black;
+    stroke-width: 10px;
+    color:#F8E2CF;
+    cursor: pointer;
+}
+#title{
+    padding: 4% 4% 4% 4%;
+ 
+}
+.nav-item{
+    padding: 0 10px;
+}
+.navbar-brand{
+    font-family:  'Ubuntu', sans-serif;
+    font-size: 2rem;
+   
+}
+hr{ border-style:none;
+
+    border-top-style: dotted;
+    border-width:15px;
+     border-color:#FFF9B6 ;
+     width:15%;
+    }
+.nav-link{
+    font-size: 1.3rem;
+  
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#comments{
+    
+    text-align:center;
+    color: #fff;
+}
+.images-comments{
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+}
+.image{
+width:50%;
+ float:top;
+ padding: 0% 2% 2% 2%;
+}
+.text{
+    font-size: 70px;
+    font-family:  'Ubuntu', sans-serif;
+    color:#F8E2CF;
+    padding: 2% 0 2% 0;
+}
+.contanier-fluid{
+background:rgba(255,255,255, 0.58);
+width:50%;
+float:right;
+border-radius:100%;
+    
+    padding: 0% 2% 2% 2%;
+  
+}
+.contanier1{
+    background-color: #FDD2BF;
+    
+    padding: 5% 5% 0 5% ;
+}
+
+
+.text-h2{
+    font-size: 2.3rem;
+    padding-left: 25%;
+    padding-bottom: 8%;
+}
+.img{
+    padding: 0% 0% 0% 22%;
+}
+
+.p{
+    font-size: 1.5rem;
+    font-family:  'Ubuntu', sans-serif;
+    padding: 8% 0 2% 0;
+    line-height: 2rem;
+}
+#cta{
+    text-align: center;
+}
+#connected{
+    padding: 3% 15% 3% 15%;
+    text-align:center;
+    color:black;
+}
+.fa-twitter{
+   padding: 5px;
+  color: black;
+}
+.fa-facebook-square{
+    padding: 5px;
+    color: black;
+ }
+ .fa-linkedin-in{
+    padding: 5px;
+    color: black;
+ }
